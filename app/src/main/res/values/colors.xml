@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="purple_500">#6013D5</color>
+    <color name="purple_700">#6013F1</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="teal_700">#00796B</color>
+    <color name="purple_200">#CE93D8</color>
+    <color name="input_feilds_accent">#673AB7</color>
+    <color name="green_feilds_accent">#50EF34</color>
+    <color name="ntrl_textinput_default_box_stroke_color" tools:override="true">#871515</color>
+</resources>
